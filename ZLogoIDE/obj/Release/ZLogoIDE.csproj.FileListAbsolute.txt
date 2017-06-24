@@ -1,0 +1,102 @@
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\Turtle.png
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\例子\hcf.jpg
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\例子\hsjx.jpg
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\例子\hzfx.jpg
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\例子\重复画射线.zlogo
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\例子\重复绘图.zlogo
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\例子\画正方形.zlogo
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\例子\画三角形.zlogo
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\例子\第1个ZLOGO程序.zlogo
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\ZLogo.exe
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\ZLogo.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\ZCompileCore.dll
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\ZLangRT.dll
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\ZLogoEngine.exe
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\Z语言系统.dll
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\ZCompileCore.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\ZLangRT.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\Z语言系统.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\bin\Release\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\obj\Release\ZLogoIDE.csprojResolveAssemblyReference.cache
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\obj\Release\ZLogoIDE.AboutForm.resources
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\obj\Release\ZLogoIDE.CompileMsgForm.resources
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\obj\Release\ZLogoIDE.Properties.Resources.resources
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\obj\Release\ZLogoIDE.IDEForm.resources
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\obj\Release\ZLogoIDE.csproj.GenerateResource.Cache
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\obj\Release\ZLogo.exe
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoIDE\obj\Release\ZLogo.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\obj\Release\ZLogo.exe
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\obj\Release\ZLogo.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\例子\hcf.jpg
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\例子\hsjx.jpg
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\例子\hzfx.jpg
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\例子\重复画射线.zlogo
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\例子\画正方形.zlogo
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\例子\画三角形.zlogo
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\例子\第1个ZLOGO程序.zlogo
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\Content\Turtle.png
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\例子\重复绘图.zlogo
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZLogo.exe
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZLogo.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZCompileCore.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZGameEngine.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZLangRT.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZLogoEngine.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZLOGO开发包.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZOpen2D.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\Z语言系统.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\OpenTK.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZCompileCore.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZLangRT.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\Z语言系统.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZGameEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZLOGO开发包.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\ZOpen2D.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\OpenTK.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\bin\Release\OpenTK.xml
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\obj\Release\ZLogoIDE.csprojResolveAssemblyReference.cache
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\obj\Release\ZLogoIDE.AboutForm.resources
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\obj\Release\ZLogoIDE.CompileMsgForm.resources
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\obj\Release\ZLogoIDE.Properties.Resources.resources
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\obj\Release\ZLogoIDE.IDEForm.resources
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoIDE\obj\Release\ZLogoIDE.csproj.GenerateResource.Cache
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\obj\Release\ZLogo.exe
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\obj\Release\ZLogo.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\Content\Turtle.png
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\例子\测试画笔颜色.zlogo
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\例子\画三角形.zlogo
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\例子\画正方形.zlogo
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\例子\第1个ZLOGO程序.zlogo
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\例子\重复绘图.zlogo
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZLogo.exe
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZLogo.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZCompileCore.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZCompileKit.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZGameEngine.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZLangRT.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZLogoCompiler.exe
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZLogoEngine.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZLOGO开发包.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZyyDesc.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\Z语言系统.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZOpen2D.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\OpenTK.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZCompileCore.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZCompileKit.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZLangRT.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZyyDesc.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\Z语言系统.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZGameEngine.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZLogoCompiler.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZLogoEngine.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZLOGO开发包.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\ZOpen2D.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\OpenTK.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\bin\Release\OpenTK.xml
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\obj\Release\ZLogoIDE.csprojResolveAssemblyReference.cache
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\obj\Release\ZLogoIDE.AboutForm.resources
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\obj\Release\ZLogoIDE.CompileMsgForm.resources
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\obj\Release\ZLogoIDE.Properties.Resources.resources
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\obj\Release\ZLogoIDE.IDEForm.resources
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoIDE\obj\Release\ZLogoIDE.csproj.GenerateResource.Cache

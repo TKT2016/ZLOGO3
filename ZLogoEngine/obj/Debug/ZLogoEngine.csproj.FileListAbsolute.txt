@@ -1,0 +1,99 @@
+E:\WorkProjects\Z\ZLogo 0.3\ZLogoEngine\bin\Debug\ZLogoEngine.exe.config
+E:\WorkProjects\Z\ZLogo 0.3\ZLogoEngine\obj\Debug\ZLogoEngine.csprojResolveAssemblyReference.cache
+E:\WorkProjects\Z\ZLogo 0.3\ZLogoEngine\obj\Debug\ZLogoEngine.Properties.Resources.resources
+E:\WorkProjects\Z\ZLogo 0.3\ZLogoEngine\obj\Debug\ZLogoEngine.csproj.GenerateResource.Cache
+E:\WorkProjects\Z\ZLogo 0.3\ZLogoEngine\bin\Debug\Turtle.png
+E:\WorkProjects\Z\ZLogo 0.3\ZLogoEngine\bin\Debug\ZLogoEngine.exe
+E:\WorkProjects\Z\ZLogo 0.3\ZLogoEngine\bin\Debug\ZLogoEngine.pdb
+E:\WorkProjects\Z\ZLogo 0.3\ZLogoEngine\obj\Debug\ZLogoEngine.exe
+E:\WorkProjects\Z\ZLogo 0.3\ZLogoEngine\obj\Debug\ZLogoEngine.pdb
+E:\WorkProjects\Z\ZLogo 0.3\ZLogoEngine\obj\Debug\ZLogoEngine.TurtleTestForm.resources
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\obj\Debug\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\bin\Debug\Turtle.png
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\bin\Debug\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\obj\Debug\ZLogoEngine.csprojResolveAssemblyReference.cache
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\obj\Debug\ZLogoEngine.Properties.Resources.resources
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\obj\Debug\ZLogoEngine.csproj.GenerateResource.Cache
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\bin\Debug\ZLangRT.dll
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\bin\Debug\Z语言系统.dll
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\bin\Debug\ZLangRT.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\bin\Debug\Z语言系统.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\bin\Debug\ZLogoEngine.exe.config
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\bin\Debug\ZLogoEngine.exe
+E:\WorkProjects\Z\Z 0.3\ZLogo 0.3\ZLogoEngine\obj\Debug\ZLogoEngine.exe
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Debug\Turtle.png
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Debug\ZLogoEngine.exe.config
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Debug\ZLogoEngine.exe
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Debug\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Debug\ZLangRT.dll
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Debug\Z语言系统.dll
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Debug\ZLangRT.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Debug\Z语言系统.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\obj\Debug\ZLogoEngine.csprojResolveAssemblyReference.cache
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\obj\Debug\ZLogoEngine.Properties.Resources.resources
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\obj\Debug\ZLogoEngine.csproj.GenerateResource.Cache
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\obj\Debug\ZLogoEngine.exe
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\obj\Debug\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\obj\Debug\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\ZLangRT.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\Z语言系统.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\ZLangRT.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\Z语言系统.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\obj\Debug\ZLogoEngine.csprojResolveAssemblyReference.cache
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\ZGameEngine.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\ZGameEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\Content\Turtle.png
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\ZLogoEngine.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\obj\Debug\ZLogoEngine.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\ZOpen2D.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\OpenTK.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\ZOpen2D.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Debug\OpenTK.GLControl.dll
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\obj\Debug\ZLogoEngine.csprojResolveAssemblyReference.cache
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\obj\Debug\ZLogoEngine.dll
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\obj\Debug\ZLogoEngine.pdb
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\bin\Debug\Content\Turtle.png
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZLogoEngine.dll
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZLogoEngine.pdb
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZGameEngine.dll
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZLangRT.dll
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZOpen2D.dll
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZLangRT.pdb
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZGameEngine.pdb
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZOpen2D.pdb
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\Content\Turtle.png
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZLogoEngine.dll
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\OpenTK.dll
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\OpenTK.GLControl.dll
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZGameEngine.dll
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZLangRT.dll
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZOpen2D.dll
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZLangRT.pdb
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZGameEngine.pdb
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZOpen2D.pdb
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\OpenTK.pdb
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\OpenTK.xml
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\OpenTK.GLControl.xml
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\obj\Debug\ZLogoEngine.csprojResolveAssemblyReference.cache
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\obj\Debug\ZLogoEngine.dll
+E:\WorkProjects\Z\Z2\ZLOGO3\ZLogoEngine\obj\Debug\ZLogoEngine.pdb
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\bin\Debug\OpenTK.pdb
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\bin\Debug\OpenTK.xml
+E:\MySource\Works\Zyy\Z2\ZLOGO3\ZLogoEngine\bin\Debug\OpenTK.GLControl.xml
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\Content\Turtle.png
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZLogoEngine.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZLogoEngine.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZGameEngine.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZLangRT.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZOpen2D.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZLangRT.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZGameEngine.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\ZOpen2D.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\OpenTK.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\OpenTK.xml
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Debug\OpenTK.GLControl.xml
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\obj\Debug\ZLogoEngine.csprojResolveAssemblyReference.cache
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\obj\Debug\ZLogoEngine.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\obj\Debug\ZLogoEngine.pdb

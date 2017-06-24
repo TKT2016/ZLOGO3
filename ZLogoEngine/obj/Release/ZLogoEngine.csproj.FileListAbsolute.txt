@@ -1,0 +1,40 @@
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Release\Turtle.png
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Release\ZLogoEngine.exe
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Release\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Release\ZLangRT.dll
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Release\Z语言系统.dll
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Release\ZLangRT.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\bin\Release\Z语言系统.pdb
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\obj\Release\ZLogoEngine.csprojResolveAssemblyReference.cache
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\obj\Release\ZLogoEngine.Properties.Resources.resources
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\obj\Release\ZLogoEngine.csproj.GenerateResource.Cache
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\obj\Release\ZLogoEngine.exe
+E:\WorkProjects\Z\Z 0.3\ZLogo 1.0\ZLogoEngine\obj\Release\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\Content\Turtle.png
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\ZLogoEngine.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\OpenTK.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\OpenTK.GLControl.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\ZGameEngine.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\ZLangRT.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\ZOpen2D.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\Z语言系统.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\ZLangRT.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\Z语言系统.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\ZGameEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\bin\Release\ZOpen2D.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\obj\Release\ZLogoEngine.csprojResolveAssemblyReference.cache
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\obj\Release\ZLogoEngine.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLogoEngine\obj\Release\ZLogoEngine.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Release\Content\Turtle.png
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Release\ZLogoEngine.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Release\ZLogoEngine.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Release\ZGameEngine.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Release\ZLangRT.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Release\ZOpen2D.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Release\ZLangRT.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Release\ZGameEngine.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\bin\Release\ZOpen2D.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\obj\Release\ZLogoEngine.csprojResolveAssemblyReference.cache
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\obj\Release\ZLogoEngine.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLogoEngine\obj\Release\ZLogoEngine.pdb

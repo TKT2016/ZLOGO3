@@ -1,0 +1,54 @@
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\Content\Turtle.png
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\Turtle.png
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\logo.jpg
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\ZLTest.exe
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\ZLTest.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\OpenTK.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\OpenTK.GLControl.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\ZCompileCore.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\ZGameEngine.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\ZLogoEngine.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\ZOpen2D.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\ZLangRT.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\Z语言系统.dll
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\ZCompileCore.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\ZGameEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\ZLogoEngine.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\ZOpen2D.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\ZLangRT.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\bin\Release\Z语言系统.pdb
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\obj\Release\ZLTest.csprojResolveAssemblyReference.cache
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\obj\Release\ZLTest.Properties.Resources.resources
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\obj\Release\ZLTest.csproj.GenerateResource.Cache
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\obj\Release\ZLTest.exe
+E:\WorkProjects\Z\Z 0.3\ZLOGO2\ZLTest\obj\Release\ZLTest.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\Content\Turtle.png
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\logo.jpg
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\Turtle.png
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZLTest.exe
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZLTest.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZGameEngine.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZLangRT.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZLogoCompiler.exe
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZLogoEngine.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZLOGO开发包.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZOpen2D.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\Z语言系统.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZCompileCore.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZCompileKit.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZyyDesc.dll
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZLangRT.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\Z语言系统.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZGameEngine.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZOpen2D.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZLogoCompiler.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZLogoEngine.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZLOGO开发包.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZCompileCore.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZCompileKit.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\bin\Release\ZyyDesc.pdb
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\obj\Release\ZLTest.csprojResolveAssemblyReference.cache
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\obj\Release\ZLTest.Properties.Resources.resources
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\obj\Release\ZLTest.csproj.GenerateResource.Cache
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\obj\Release\ZLTest.exe
+E:\ProgProj\Z\Z2\ZLOGO3\ZLTest\obj\Release\ZLTest.pdb
