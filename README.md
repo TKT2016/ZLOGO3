@@ -1,6 +1,6 @@
-# ZLOGO 2.x
+# ZLOGO 3.x
 
-ZLOGO 2改用OpenTK绘图，大幅度提高了性能。
+ZLOGO 3去掉了括号。
 
 ZLOGO是在基于Z语言实现的LOGO语言,但是它用的是中文编程，比原先的LOGO语言更简单易懂。
 
